@@ -1,0 +1,17 @@
+.form-search
+{
+   margin: 0.5em 0;
+   text-align: center;
+}
+
+.form-search #query
+{
+   padding: 0.2em;
+}
+
+.form-search input
+{
+   color: #000000;
+}
+
+

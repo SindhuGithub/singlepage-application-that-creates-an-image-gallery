@@ -1,1 +1,1 @@
-# singlepage-application-that-creates-an-image-gallery
+# git-remote-add-origin-https-github.com-sinusins-singlepage-application-that-creates-an-image-galle
